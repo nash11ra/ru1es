@@ -1,9 +1,9 @@
 # NAME: OutsideForceUS
-# Updated: 2025-09-22
+# Updated: 2025-12-08
 
 # Reddit
 # Source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Reddit/Reddit.list
-# Updated: 2025-07-06
+# Updated: 2025-06-06
 DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redditmail.com
