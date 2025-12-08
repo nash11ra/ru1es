@@ -1,5 +1,5 @@
 # NAME: Outside
-# Updated: 2025-10-21
+# Updated: 2025-12-08
 
 # OpenAI用到的域名
 # challenges.cloudflare.com 和 static.cloudflareinsights.com,有些网站也用CF认证,CF域名和其它网站域名不在同一个地区,有时会无限验证
@@ -288,9 +288,10 @@ DOMAIN-SUFFIX,numista.com
 # Twitter
 # Source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Twitter/Twitter.list
 # Source: https://bgp.tools/rir-owner/ARIN-TWITT
-# Updated: 2024-07-03
+# Updated: 2025-09-28
 DOMAIN-SUFFIX,ads-twitter.com
 DOMAIN-SUFFIX,cms-twdigitalassets.com
+DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,t.co
@@ -316,10 +317,12 @@ DOMAIN-SUFFIX,vine.co
 DOMAIN-SUFFIX,x.com
 DOMAIN-KEYWORD,twitter
 
+
 # Instagram
 # Source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Instagram/Instagram.list
 # Source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Facebook/Facebook.list
-# Updated: 2024-07-03
+# Updated: 2025-06-06
+DOMAIN-KEYWORD,instagram
 DOMAIN-SUFFIX,achat-followers-instagram.com
 DOMAIN-SUFFIX,acheter-followers-instagram.com
 DOMAIN-SUFFIX,acheterdesfollowersinstagram.com
@@ -329,6 +332,11 @@ DOMAIN-SUFFIX,carstagram.com
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,celebgramme.com
 DOMAIN-SUFFIX,chickstagram.com
+DOMAIN-SUFFIX,i.org
+DOMAIN-SUFFIX,ig.me
+DOMAIN-SUFFIX,igcdn.com
+DOMAIN-SUFFIX,igsonar.com
+DOMAIN-SUFFIX,igtv.com
 DOMAIN-SUFFIX,imstagram.com
 DOMAIN-SUFFIX,imtagram.com
 DOMAIN-SUFFIX,instaadder.com
@@ -380,6 +388,7 @@ DOMAIN-SUFFIX,instaplayer.net
 DOMAIN-SUFFIX,instastyle.tv
 DOMAIN-SUFFIX,instgram.com
 DOMAIN-SUFFIX,intagram.com
+DOMAIN-SUFFIX,intagrm.com
 DOMAIN-SUFFIX,intgram.com
 DOMAIN-SUFFIX,kingstagram.com
 DOMAIN-SUFFIX,lnstagram-help.com
@@ -389,18 +398,17 @@ DOMAIN-SUFFIX,onlineinstagram.com
 DOMAIN-SUFFIX,theinstagramhack.com
 DOMAIN-SUFFIX,web-instagram.net
 DOMAIN-SUFFIX,wwwinstagram.com
-DOMAIN-KEYWORD,instagram
 
 # Tumblr
 # Source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Tumblr/Tumblr.list
-# Updated: 2024-07-03
+# Updated: 2025-06-06
 DOMAIN-SUFFIX,tmblr.co
 DOMAIN-SUFFIX,tumblr.co
 DOMAIN-SUFFIX,tumblr.com
 
 # Duckduckgo
 # Source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Duckduckgo/Duckduckgo.list
-# Updated: 2024-07-03
+# Updated: 2025-06-06
 DOMAIN-SUFFIX,cispaletter.com
 DOMAIN-SUFFIX,cispaletter.org
 DOMAIN-SUFFIX,cometotheduckside.com
@@ -447,12 +455,13 @@ DOMAIN-SUFFIX,spreadprivacy.com
 
 # Discord
 # https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Discord/Discord.list
-# Updated: 2024-07-03
+# Updated: 2025-06-06
 DOMAIN-SUFFIX,airhorn.solutions
 DOMAIN-SUFFIX,airhornbot.com
 DOMAIN-SUFFIX,bigbeans.solutions
 DOMAIN-SUFFIX,dis.gd
 DOMAIN-SUFFIX,discord-activities.com
+DOMAIN-SUFFIX,discord-attachments-uploads-prd.storage.googleapis.com
 DOMAIN-SUFFIX,discord.co
 DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,discord.design
@@ -479,7 +488,7 @@ DOMAIN-SUFFIX,watchanimeattheoffice.com
 
 # Dropbox
 # Source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Dropbox/Dropbox.list
-# Updated: 2024-07-03
+# Updated: 2025-06-06
 DOMAIN-SUFFIX,db.tt
 DOMAIN-SUFFIX,dropbox-dns.com
 DOMAIN-SUFFIX,dropbox.com
@@ -500,7 +509,7 @@ DOMAIN-SUFFIX,paper-attachments.s3.amazonaws.com
 
 # Notion
 # Source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Notion/Notion.list
-# Updated: 2024-07-03
+# Updated: 2025-06-06
 DOMAIN,http-inputs-notion.splunkcloud.com
 DOMAIN-SUFFIX,notion-static.com
 DOMAIN-SUFFIX,notion.com
@@ -510,7 +519,7 @@ DOMAIN-SUFFIX,notion.so
 
 # PikPak
 # Source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/PikPak/PikPak.list
-# Updated: 2024-07-03
+# Updated: 2025-06-06
 DOMAIN-SUFFIX,dlandroid.rcv.sandai.net
 DOMAIN-SUFFIX,hub5idx.v6.shub.sandai.net
 DOMAIN-SUFFIX,hub5pn.wap.sandai.net
@@ -521,7 +530,7 @@ DOMAIN-KEYWORD,mypikpak
 
 # Wikimedia
 # Source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Wikimedia/Wikimedia.list
-# Updated: 2024-07-03
+# Updated: 2025-06-06
 DOMAIN-SUFFIX,mediawiki.org
 DOMAIN-SUFFIX,toolforge.org
 DOMAIN-SUFFIX,w.wiki
@@ -545,7 +554,7 @@ DOMAIN-SUFFIX,wmfusercontent.org
 
 # Wikipedia
 # Source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Wikipedia/Wikipedia.list
-# Updated: 2024-07-03
+# Updated: 2025-06-06
 DOMAIN-SUFFIX,mediawiki.org
 DOMAIN-SUFFIX,wikibooks.org
 DOMAIN-SUFFIX,wikidata.org
