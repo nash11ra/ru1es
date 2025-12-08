@@ -1,13 +1,15 @@
 # NAME: OutsideForceTW
-# Updated: 2025-10-19
+# Updated: 2025-12-08
 
 # Bahamut
 # Source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Bahamut/Bahamut.list
+# Updated: 2025-06-06
 DOMAIN,bahamut.akamaized.net
-DOMAIN,gamer-cds.cdn.hinet.net
-DOMAIN,gamer2-cds.cdn.hinet.net
 DOMAIN-SUFFIX,bahamut.com.tw
 DOMAIN-SUFFIX,gamer.com.tw
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,viblast.com
 
 # GOV sites
 DOMAIN-SUFFIX,edu.tw
