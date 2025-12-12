@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2025-12-08
+# Updated: 2025-12-12
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -283,6 +283,8 @@ DOMAIN-SUFFIX,weisiwang.com
 DOMAIN-SUFFIX,yijia5.com
 ## 剧迷
 DOMAIN-SUFFIX,gimy.tv
+DOMAIN-SUFFIX,gimytv.app
+DOMAIN-SUFFIX,gimytv.co
 ## 爱剧集网
 DOMAIN-SUFFIX,2jyw.com
 ## 海龟TV
@@ -313,6 +315,8 @@ DOMAIN-SUFFIX,dytt-cine.com
 DOMAIN-SUFFIX,xfdm.pro
 DOMAIN-SUFFIX,xifan.moe
 DOMAIN-SUFFIX,xifanacg.com
+## 卡卡动漫
+DOMAIN-SUFFIX,kaka.china-mt.org
 ## 假独播库
 DOMAIN-SUFFIX,duboku.info
 ## 瓜子web
