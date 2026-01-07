@@ -1,5 +1,5 @@
 # NAME: Outside
-# Updated: 2025-12-08
+# Updated: 2026-01-08
 
 # OpenAI用到的域名
 # challenges.cloudflare.com 和 static.cloudflareinsights.com,有些网站也用CF认证,CF域名和其它网站域名不在同一个地区,有时会无限验证
