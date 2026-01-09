@@ -1,5 +1,10 @@
 # NAME: OutsideGames
-# Updated: 2025-12-06
+# Updated: 2026-01-09
+
+# SteamDeck相关
+DOMAIN-SUFFIX,decky.xyz
+DOMAIN-SUFFIX,plugins.deckbrew.xyz
+DOMAIN-SUFFIX,retrohandhelds.gg
 
 # M1necraft
 ## M1necraft启动器相关
