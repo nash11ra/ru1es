@@ -6,8 +6,9 @@ DOMAIN-KEYWORD,afreecatv
 DOMAIN-SUFFIX,afreecatv.com
 
 # Korean Storage Platform
-DOMAIN-SUFFIX,bunkrr.su
-DOMAIN-SUFFIX,bunkr.media
-DOMAIN-SUFFIX,bunkr.black
 DOMAIN-SUFFIX,bunkr-cache.se
+DOMAIN-SUFFIX,bunkr.black
+DOMAIN-SUFFIX,bunkr.media
+DOMAIN-SUFFIX,bunkr.ws
+DOMAIN-SUFFIX,bunkrr.su
 DOMAIN-KEYWORD,bunkr
