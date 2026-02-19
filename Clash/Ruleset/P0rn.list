@@ -1,5 +1,5 @@
 # NAME: P0rn
-# Updated: 2025-07-28
+# Updated: 2026-02-19
 
 # 日本事务所 & 经纪公司
 DOMAIN-SUFFIX,8man.jp
@@ -462,10 +462,6 @@ DOMAIN-SUFFIX,dengyulai.org
 DOMAIN-SUFFIX,dfyuedu.org
 DOMAIN-SUFFIX,diaosixs.net
 DOMAIN-SUFFIX,diqishu.net
-DOMAIN-SUFFIX,diyibanzhu.buzz
-DOMAIN-SUFFIX,diyibanzhu.info
-DOMAIN-SUFFIX,diyibanzhu.me
-DOMAIN-SUFFIX,diyibanzhu.store
 DOMAIN-SUFFIX,dmbook7.com
 DOMAIN-SUFFIX,dmx5.cc
 DOMAIN-SUFFIX,dook7.com
@@ -764,6 +760,15 @@ DOMAIN-SUFFIX,zongcaixiaoshuo.com
 DOMAIN-SUFFIX,zslxsw.net
 DOMAIN-SUFFIX,ztgauntong.com
 DOMAIN-SUFFIX,zuoyou2.com
+
+# 第一版主
+DOMAIN-SUFFIX,diyibanzhu.app
+DOMAIN-SUFFIX,diyibanzhu.buzz
+DOMAIN-SUFFIX,diyibanzhu.info
+DOMAIN-SUFFIX,diyibanzhu.me
+DOMAIN-SUFFIX,diyibanzhu.net
+DOMAIN-SUFFIX,diyibanzhu.store
+
 
 # 欧美事务所 & Hardc0re & BDSM & Trans
 # Source: https://www.data18.com/studios & https://freshporno.net/channels
