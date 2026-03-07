@@ -1,5 +1,5 @@
 # NAME: OutsideForceJP
-# Updated: 2024-07-28
+# Updated: 2025-03-07
 
 # Monokakido Dictionary
 DOMAIN-SUFFIX,cdn77.org
@@ -77,6 +77,10 @@ DOMAIN-SUFFIX,yakuru.net
 DOMAIN-SUFFIX,yojijyukugo.com
 DOMAIN-SUFFIX,yomikatawa.com
 DOMAIN-SUFFIX,zokugo-dict.com
+
+# DMM
+DOMAIN-SUFFIX,navismithapis.com
+DOMAIN-SUFFIX,p-smith.com
 
 # Others
 
