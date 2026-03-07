@@ -78,9 +78,11 @@ DOMAIN-SUFFIX,yojijyukugo.com
 DOMAIN-SUFFIX,yomikatawa.com
 DOMAIN-SUFFIX,zokugo-dict.com
 
-# DMM
+# DMM 补充规则
+## 疑似是第三方追踪脚本托管网站
 DOMAIN-SUFFIX,navismithapis.com
 DOMAIN-SUFFIX,p-smith.com
+
 
 # Others
 
