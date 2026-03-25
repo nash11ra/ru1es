@@ -578,14 +578,6 @@ DOMAIN-SUFFIX,dy.zixiya.me
 DOMAIN-SUFFIX,fanxinzhui.com
 DOMAIN-SUFFIX,gaoqing.la
 DOMAIN-SUFFIX,gugeso.com
-DOMAIN-SUFFIX,gyg.la
-DOMAIN-SUFFIX,gyg.si
-DOMAIN-SUFFIX,gyg.st
-DOMAIN-SUFFIX,gying.in
-DOMAIN-SUFFIX,gying.net
-DOMAIN-SUFFIX,gying.org
-DOMAIN-SUFFIX,gying.page
-DOMAIN-SUFFIX,gying.si
 DOMAIN-SUFFIX,jisubt.com
 DOMAIN-SUFFIX,kkxz.vip
 DOMAIN-SUFFIX,kuafuzys.com
@@ -644,6 +636,25 @@ DOMAIN-SUFFIX,yx.zerovv.top
 DOMAIN-SUFFIX,yyets.click
 DOMAIN-SUFFIX,zhaoziyuan1.cc
 DOMAIN-SUFFIX,zimuxia.cn
+## 观影（无名小站）
+DOMAIN-SUFFIX,gyg.la
+DOMAIN-SUFFIX,gyg.si
+DOMAIN-SUFFIX,gyg.st
+DOMAIN-SUFFIX,gying.in
+DOMAIN-SUFFIX,gying.net
+DOMAIN-SUFFIX,gying.org
+DOMAIN-SUFFIX,gying.page
+DOMAIN-SUFFIX,gying.si
+DOMAIN-SUFFIX,xn--10vr61a3xc5x3b.com
+DOMAIN-SUFFIX,xn--74qy8dk4drvg29x.com
+DOMAIN-SUFFIX,xn--74qz10cqsltibh40akss.com
+DOMAIN-SUFFIX,xn--dpqv20e8ug6r8a.com
+DOMAIN-SUFFIX,xn--kivn76b41nnhi.com
+DOMAIN-SUFFIX,xn--rhqp87dfoiv9a830g.com
+DOMAIN-SUFFIX,xn--vcsx1ip8b8w4i.com
+DOMAIN-SUFFIX,xn--wcv59z.com
+
+
 
 # 滴嘀动画
 DOMAIN-SUFFIX,dddh.fun
