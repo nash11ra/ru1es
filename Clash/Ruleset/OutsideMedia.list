@@ -645,6 +645,7 @@ DOMAIN-SUFFIX,gying.net
 DOMAIN-SUFFIX,gying.org
 DOMAIN-SUFFIX,gying.page
 DOMAIN-SUFFIX,gying.si
+DOMAIN-SUFFIX,hgeme.com
 DOMAIN-SUFFIX,xn--10vr61a3xc5x3b.com
 DOMAIN-SUFFIX,xn--74qy8dk4drvg29x.com
 DOMAIN-SUFFIX,xn--74qz10cqsltibh40akss.com
@@ -653,7 +654,7 @@ DOMAIN-SUFFIX,xn--kivn76b41nnhi.com
 DOMAIN-SUFFIX,xn--rhqp87dfoiv9a830g.com
 DOMAIN-SUFFIX,xn--vcsx1ip8b8w4i.com
 DOMAIN-SUFFIX,xn--wcv59z.com
-
+DOMAIN-SUFFIX,xn--ykq321c.com
 
 
 # 滴嘀动画
@@ -974,6 +975,12 @@ DOMAIN-SUFFIX,xgct-video.vzcdn.net
 DOMAIN-SUFFIX,yboku.com
 DOMAIN-SUFFIX,yparse.ik9.cc
 DOMAIN-SUFFIX,yzzy1.play-cdn1.com
+
+# 动漫相关
+## 名侦探 柯南
+DOMAIN-SUFFIX,conanpedia.com
+DOMAIN-SUFFIX,sbsub.com
+DOMAIN-SUFFIX,wiki.sbsub.com
 
 # 听书相关
 ## 最大的英文自制有声书社区
