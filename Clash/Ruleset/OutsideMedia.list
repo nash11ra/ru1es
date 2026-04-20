@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2026-01-08
+# Updated: 2026-04-20
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -77,6 +77,7 @@ DOMAIN-SUFFIX,ifabu.vip
 DOMAIN-SUFFIX,iioo.me
 DOMAIN-SUFFIX,lib.ifabu.vip
 DOMAIN-SUFFIX,libfabu.com
+DOMAIN-SUFFIX,libhd.com
 DOMAIN-SUFFIX,libvio.app
 DOMAIN-SUFFIX,libvio.cc
 DOMAIN-SUFFIX,libvio.cloud
@@ -89,8 +90,10 @@ DOMAIN-SUFFIX,libvio.me
 DOMAIN-SUFFIX,libvio.mov
 DOMAIN-SUFFIX,libvio.pro
 DOMAIN-SUFFIX,libvio.pw
+DOMAIN-SUFFIX,libvio.run
 DOMAIN-SUFFIX,libvio.site
 DOMAIN-SUFFIX,libvio.vip
+DOMAIN-SUFFIX,libviofabu.com
 DOMAIN-SUFFIX,libviohd.com
 
 # 独播库
@@ -578,6 +581,8 @@ DOMAIN-SUFFIX,dy.zixiya.me
 DOMAIN-SUFFIX,fanxinzhui.com
 DOMAIN-SUFFIX,gaoqing.la
 DOMAIN-SUFFIX,gugeso.com
+DOMAIN-SUFFIX,hdhive.com
+DOMAIN-SUFFIX,hdhive.online
 DOMAIN-SUFFIX,jisubt.com
 DOMAIN-SUFFIX,kkxz.vip
 DOMAIN-SUFFIX,kuafuzys.com
@@ -1031,7 +1036,9 @@ DOMAIN-SUFFIX,int.vaicore.site
 DOMAIN-SUFFIX,ip.claspws.tv
 DOMAIN-SUFFIX,o17675.ingest.us.sentry.io
 DOMAIN-SUFFIX,prodregistryv2.org
-
+# 未知用途域名
+## 有可能用于Relay服务
+DOMAIN-SUFFIX,pubsub04.pop.fmt.plex.bz
 
 
 
