@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2026-04-20
+# Updated: 2026-04-21
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -1027,6 +1027,10 @@ DOMAIN-SUFFIX,sonos.plex.tv
 DOMAIN-SUFFIX,scrobbles.plex.tv
 DOMAIN-SUFFIX,vod-content.plexvideos.com
 DOMAIN-SUFFIX,vod.provider.plex.tv
+
+## 可能用于Plex Relay中继服务
+DOMAIN-SUFFIX,plex.bz
+
 # 其它Plex使用的域名，猜测是用于调试和日志
 DOMAIN-SUFFIX,api.iterable.com
 DOMAIN-SUFFIX,co.vaicore.site
@@ -1036,9 +1040,6 @@ DOMAIN-SUFFIX,int.vaicore.site
 DOMAIN-SUFFIX,ip.claspws.tv
 DOMAIN-SUFFIX,o17675.ingest.us.sentry.io
 DOMAIN-SUFFIX,prodregistryv2.org
-# 未知用途域名
-## 有可能用于Relay服务
-DOMAIN-SUFFIX,pubsub04.pop.fmt.plex.bz
 
 
 
