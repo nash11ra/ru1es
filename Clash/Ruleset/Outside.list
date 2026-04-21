@@ -1,5 +1,5 @@
 # NAME: Outside
-# Updated: 2026-01-08
+# Updated: 2026-04-21
 
 # OpenAI用到的域名
 # challenges.cloudflare.com 和 static.cloudflareinsights.com,有些网站也用CF认证,CF域名和其它网站域名不在同一个地区,有时会无限验证
@@ -528,6 +528,7 @@ DOMAIN-SUFFIX,hub5pn.wap.sandai.net
 DOMAIN-SUFFIX,hub5pnc.sandai.net
 DOMAIN-SUFFIX,hub5pr.v6.phub.sandai.net
 DOMAIN-SUFFIX,hubciddata.sandai.net
+DOMAIN-SUFFIX,pickpackapp.com
 DOMAIN-KEYWORD,mypikpak
 
 # Wikimedia
