@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2026-04-21
+# Updated: 2026-04-24
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -661,10 +661,47 @@ DOMAIN-SUFFIX,xn--vcsx1ip8b8w4i.com
 DOMAIN-SUFFIX,xn--wcv59z.com
 DOMAIN-SUFFIX,xn--ykq321c.com
 
+# 片库
+DOMAIN-SUFFIX,988lm.com
+DOMAIN-SUFFIX,pdy0.com
+DOMAIN-SUFFIX,pdy2.com
+DOMAIN-SUFFIX,pdy3.com
+DOMAIN-SUFFIX,pdy4.com
+DOMAIN-SUFFIX,pdy5.com
+DOMAIN-SUFFIX,pdy6.com
+DOMAIN-SUFFIX,pys1.com
+DOMAIN-SUFFIX,pys2.com
+DOMAIN-SUFFIX,pys3.com
+
+# 七味网
+DOMAIN-SUFFIX,gmp4.com
+DOMAIN-SUFFIX,qmp4.com
+DOMAIN-SUFFIX,qn63.com
+DOMAIN-SUFFIX,qncool.com
+DOMAIN-SUFFIX,qnhot.com
+DOMAIN-SUFFIX,qnmp4.com
+DOMAIN-SUFFIX,qnnull.com
+DOMAIN-SUFFIX,qwfilm.com
+DOMAIN-SUFFIX,qwmkv.com
+DOMAIN-SUFFIX,qwnull.com
+
+# 不太灵
+DOMAIN-SUFFIX,0bt0.com
+DOMAIN-SUFFIX,1bt0.com
+DOMAIN-SUFFIX,2bt0.com
+DOMAIN-SUFFIX,3bt0.com
+DOMAIN-SUFFIX,4bt0.com
+DOMAIN-SUFFIX,5bt0.com
+DOMAIN-SUFFIX,6bt0.com
+DOMAIN-SUFFIX,7bt0.com
+DOMAIN-SUFFIX,8bt0.com
+DOMAIN-SUFFIX,9bt0.com
+DOMAIN-SUFFIX,butailing.com
+DOMAIN-SUFFIX,mukaku.com
+
 
 # 滴嘀动画
 DOMAIN-SUFFIX,dddh.fun
-
 
 # 刮削 & 海报 & 周边 & 影音动漫评分
 # Apple 流媒体封面获取     https://bendodson.com/projects/itunes-artwork-finder
@@ -1017,6 +1054,7 @@ DOMAIN-SUFFIX,epg.provider.plex.tv
 DOMAIN-SUFFIX,features.plex.tv
 DOMAIN-SUFFIX,images.plex.tv
 DOMAIN-SUFFIX,luma.plex.tv
+DOMAIN-SUFFIX,mbz.plex.tv
 DOMAIN-SUFFIX,meta.plex.tv
 DOMAIN-SUFFIX,metadata-static.plex.tv
 DOMAIN-SUFFIX,metadata.provider.plex.tv
