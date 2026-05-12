@@ -1,20 +1,24 @@
 # NAME: OutsideMedia
-# Updated: 2026-04-24
+# Updated: 2026-05-12
 
 # TVSeries & Movies & Anime & Media Servers
 
-# 低端影视（已关站）
-## DOMAIN-SUFFIX,ddrk.me
-## DOMAIN-SUFFIX,ddys.info
-## DOMAIN-SUFFIX,ddys.love
-## DOMAIN-SUFFIX,ddys.me
-## DOMAIN-SUFFIX,ddys.mov
-## DOMAIN-SUFFIX,ddys.pro
-## DOMAIN-SUFFIX,ddys.site
-## DOMAIN-SUFFIX,ddys.tv
-## DOMAIN-SUFFIX,ddys2.me
+# 低端影视（已关站）（又开站，为付费制）
+DOMAIN-SUFFIX,ddrk.me
+DOMAIN-SUFFIX,ddys.ai
+DOMAIN-SUFFIX,ddys.app
+DOMAIN-SUFFIX,ddys.gay
+DOMAIN-SUFFIX,ddys.info
+DOMAIN-SUFFIX,ddys.love
+DOMAIN-SUFFIX,ddys.me
+DOMAIN-SUFFIX,ddys.mov
+DOMAIN-SUFFIX,ddys.pro
+DOMAIN-SUFFIX,ddys.site
+DOMAIN-SUFFIX,ddys.tv
+DOMAIN-SUFFIX,ddys2.me
 
 # 厂长资源
+DOMAIN-SUFFIX,cz01.org
 DOMAIN-SUFFIX,cz01.tv
 DOMAIN-SUFFIX,cz01.vip
 DOMAIN-SUFFIX,cz0101.com
@@ -33,6 +37,7 @@ DOMAIN-SUFFIX,czzy66.com
 DOMAIN-SUFFIX,czzy77.com
 DOMAIN-SUFFIX,czzy88.com
 DOMAIN-SUFFIX,czzymovie.com
+DOMAIN-SUFFIX,czzyv.com
 DOMAIN-SUFFIX,czzyvideo.com
 
 # 在线之家
@@ -62,6 +67,7 @@ DOMAIN-SUFFIX,bdys01.com
 DOMAIN-SUFFIX,bdys03.com
 DOMAIN-SUFFIX,bdys10.com
 DOMAIN-SUFFIX,xl01.com.de
+DOMAIN-SUFFIX,xl02.com.de
 DOMAIN-SUFFIX,xlys.ltd.ua
 DOMAIN-SUFFIX,xlys.me
 DOMAIN-SUFFIX,xlys01.com
