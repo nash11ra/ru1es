@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2026-05-12
+# Updated: 2026-05-28
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -1091,6 +1091,7 @@ DOMAIN-SUFFIX,prodregistryv2.org
 # Bangumi番组计划
 DOMAIN-SUFFIX,bgm.tv
 DOMAIN-SUFFIX,bangumi.tv
+DOMAIN-SUFFIX,chii.in
 
 # 蜜柑计划
 DOMAIN-SUFFIX,mikanani.me
