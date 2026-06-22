@@ -75,6 +75,7 @@ PROCESS-NAME,GameViewer.exe
 
 # Synology
 # Source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Synology/Synology.list
+# Updated: 2026-06-22
 DOMAIN,d2f0395ykn6hxb.cloudfront.net
 DOMAIN-SUFFIX,diskstation.me
 DOMAIN-SUFFIX,dscloud.biz
@@ -108,6 +109,7 @@ DOMAIN-SUFFIX,ffhome.com
 DOMAIN-KEYWORD,m-team
 
 # 合并 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list 中的进程
+# Updated: 2026-06-22
 PROCESS-NAME,amuled
 PROCESS-NAME,amuled.exe
 PROCESS-NAME,BaiduNetdisk
@@ -146,7 +148,7 @@ PROCESS-NAME,XLLiveUD.exe
 
 # 115
 # Source : https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/115/115.list
-# Source Updated Time: 2025-06-06
+# Updated: 2026-06-22
 DOMAIN,fhnfile.oss-cn-shenzhen.aliyuncs.com
 DOMAIN-SUFFIX,115.com
 DOMAIN-SUFFIX,115cdn.com
@@ -160,7 +162,7 @@ DOMAIN-SUFFIX,sq.cc
 
 # Xunlei
 # Source : https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Xunlei/Xunlei.list
-# Source Updated Time: 2025-06-06
+# Updated: 2026-06-22
 DOMAIN-SUFFIX,00cdn.com
 DOMAIN-SUFFIX,155.com
 DOMAIN-SUFFIX,2sonar.com
@@ -196,7 +198,7 @@ DOMAIN-SUFFIX,xunlei.net
 
 # 360
 # Source : https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/360/360.list
-# Source Updated Time: 2025-06-06
+# Updated: 2026-06-22
 DOMAIN-SUFFIX,0360.cn
 DOMAIN-SUFFIX,1360.cn
 DOMAIN-SUFFIX,1360.com
