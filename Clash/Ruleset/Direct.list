@@ -1,5 +1,5 @@
 # NAME: Direct
-# Updated: 2026-06-05
+# Updated: 2026-06-23
 
 # 游戏相关
 ## HumbleBundle HB慈善包
@@ -41,20 +41,28 @@ DOMAIN-SUFFIX,wanzhi.com
 # Docker 镜像
 # Source: https://gist.github.com/y0ngb1n/7e8f16af3242c7815e7ca2f0833d3ea6
 # Source: https://status.1panel.top/status/docker
-DOMAIN,atomhub.openatom.cn
-## DOMAIN,docker.1panel.dev //国内速度有点慢
-DOMAIN,docker.anyhub.us.kg
-DOMAIN,docker.awsl9527.cn
-DOMAIN,docker.ckyl.me
-DOMAIN,docker.hpcloud.cloud
-DOMAIN,docker.m.daocloud.io
-DOMAIN,dockerhub.jobcher.com
-## DOMAIN,hub.rat.dev //国内速度有点慢
-DOMAIN-SUFFIX,1panel.live
-DOMAIN-SUFFIX,1panel.top
-DOMAIN-SUFFIX,1panel.wiki
-DOMAIN-SUFFIX,dockerhub.icu
-DOMAIN-SUFFIX,dockerpull.com
+# Source: https://github.com/kspeeder/docker_kspeeder/issues/12
+DOMAIN-SUFFIX,docker-registry.nmqu.com
+DOMAIN-SUFFIX,docker.1ms.run
+DOMAIN-SUFFIX,docker.1panel.live
+DOMAIN-SUFFIX,docker.fnnas.com
+DOMAIN-SUFFIX,docker.hlmirror.com
+DOMAIN-SUFFIX,docker.kejilion.pro
+DOMAIN-SUFFIX,docker.m.daocloud.io
+DOMAIN-SUFFIX,docker.m.ixdev.cn
+DOMAIN-SUFFIX,docker.sparkcr.cn
+DOMAIN-SUFFIX,docker.xuanyuan.dev
+DOMAIN-SUFFIX,docker.xuanyuan.me
+DOMAIN-SUFFIX,docker.xuanyuan.run
+DOMAIN-SUFFIX,dockerproxy.cool
+DOMAIN-SUFFIX,dockerproxy.net
+DOMAIN-SUFFIX,hub.1panel.dev
+DOMAIN-SUFFIX,hub.rat.dev
+DOMAIN-SUFFIX,hub1.nat.tf
+DOMAIN-SUFFIX,hub2.nat.tf
+DOMAIN-SUFFIX,hub3.nat.tf
+DOMAIN-SUFFIX,mirror.ccs.tencentyun.com
+DOMAIN-SUFFIX,proxy.vvvv.ee
 
 # Parsec
 # Source: https://support.parsec.app/hc/en-us/articles/4440911373325-Parsec-Connectivity-Requirements
