@@ -1,5 +1,5 @@
 # NAME: InsideMedia
-# Updated: 2025-04-01
+# Updated: 2026-06-23
 
 
 # TVSeries & Movies & Anime & Media Servers
@@ -56,22 +56,39 @@ DOMAIN-SUFFIX,sp-flv.com
 # Plex 不需要代理的地址
 DOMAIN-SUFFIX,plex.direct
 DOMAIN-SUFFIX,v4.plex.tv
+## DOMAIN,plex.tv
 ## DOMAIN-SUFFIX,analytics.plex.tv
 ## DOMAIN-SUFFIX,clients.plex.tv
 ## DOMAIN-SUFFIX,community.plex.tv
 ## DOMAIN-SUFFIX,discover.provider.plex.tv
+## DOMAIN-SUFFIX,downloads.plex.tv
 ## DOMAIN-SUFFIX,epg.provider.plex.tv
 ## DOMAIN-SUFFIX,features.plex.tv
 ## DOMAIN-SUFFIX,images.plex.tv
 ## DOMAIN-SUFFIX,luma.plex.tv
+## DOMAIN-SUFFIX,mbz.plex.tv
 ## DOMAIN-SUFFIX,meta.plex.tv
 ## DOMAIN-SUFFIX,metadata-static.plex.tv
 ## DOMAIN-SUFFIX,metadata.provider.plex.tv
+## DOMAIN-SUFFIX,notifications.plex.tv
 ## DOMAIN-SUFFIX,provider-static.plex.tv
 ## DOMAIN-SUFFIX,pubsub.plex.tv
 ## DOMAIN-SUFFIX,sonos.plex.tv
+## DOMAIN-SUFFIX,scrobbles.plex.tv
 ## DOMAIN-SUFFIX,vod-content.plexvideos.com
 ## DOMAIN-SUFFIX,vod.provider.plex.tv
+# 可能用于Plex Relay中继服务
+## DOMAIN-SUFFIX,plex.bz
+# 其它Plex使用的域名，猜测是用于调试和日志
+## DOMAIN-SUFFIX,api.iterable.com
+## DOMAIN-SUFFIX,co.vaicore.site
+## DOMAIN-SUFFIX,config.claspws.tv
+## DOMAIN-SUFFIX,featureassets.org
+## DOMAIN-SUFFIX,int.vaicore.site
+## DOMAIN-SUFFIX,ip.claspws.tv
+## DOMAIN-SUFFIX,o17675.ingest.us.sentry.io
+## DOMAIN-SUFFIX,prodregistryv2.org
+
 
 # Podcast
 DOMAIN-SUFFIX,fyfy.fm
@@ -93,17 +110,17 @@ DOMAIN-SUFFIX,ychy.cc
 DOMAIN-SUFFIX,ychy.org
 
 
-# Pixman
+# Pixman （已经失效）
 # https://hub.docker.com/r/pixman/pixman
 # Source: https://pixman.io/topics/17
-DOMAIN-SUFFIX,cctv.cn
-DOMAIN-SUFFIX,chinamobile.com
-DOMAIN-SUFFIX,cmvideo.cn
-DOMAIN-SUFFIX,dnsany.com
-DOMAIN-SUFFIX,gcable.cn
-DOMAIN-SUFFIX,gitv.tv
-DOMAIN-SUFFIX,mobaibox.com
-DOMAIN-SUFFIX,yangshipin.cn
-IP-CIDR,183.206.0.0/15,no-resolve
-IP-CIDR,27.36.0.0/14,no-resolve
-IP-CIDR,183.238.66.0/24,no-resolve
+## DOMAIN-SUFFIX,cctv.cn
+## DOMAIN-SUFFIX,chinamobile.com
+## DOMAIN-SUFFIX,cmvideo.cn
+## DOMAIN-SUFFIX,dnsany.com
+## DOMAIN-SUFFIX,gcable.cn
+## DOMAIN-SUFFIX,gitv.tv
+## DOMAIN-SUFFIX,mobaibox.com
+## DOMAIN-SUFFIX,yangshipin.cn
+## IP-CIDR,183.206.0.0/15,no-resolve
+## IP-CIDR,27.36.0.0/14,no-resolve
+## IP-CIDR,183.238.66.0/24,no-resolve
