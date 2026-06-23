@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2026-05-28
+# Updated: 2026-06-23
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -422,10 +422,15 @@ DOMAIN-SUFFIX,tianyiso.com
 ## Star2
 DOMAIN-SUFFIX,1.star2.cn
 ## SeedHub
+DOMAIN-SUFFIX,hubdog.cc
 DOMAIN-SUFFIX,seedhub.cc
 DOMAIN-SUFFIX,seedhub.icu
 DOMAIN-SUFFIX,seedhub.pro
 DOMAIN-SUFFIX,seedhub.top
+DOMAIN-SUFFIX,seeduck.cc
+DOMAIN-SUFFIX,sidhub.cc
+DOMAIN-SUFFIX,xn--qvr66slqr.com
+
 ## 云巢
 DOMAIN-SUFFIX,pecc.xin
 ## 木偶
@@ -688,6 +693,7 @@ DOMAIN-SUFFIX,qnhot.com
 DOMAIN-SUFFIX,qnmp4.com
 DOMAIN-SUFFIX,qnnull.com
 DOMAIN-SUFFIX,qwfilm.com
+DOMAIN-SUFFIX,qwfun.com
 DOMAIN-SUFFIX,qwmkv.com
 DOMAIN-SUFFIX,qwnull.com
 
@@ -797,6 +803,7 @@ DOMAIN-SUFFIX,catw.moe
 DOMAIN-SUFFIX,cddys1.me
 DOMAIN-SUFFIX,ciyuanb.top
 DOMAIN-SUFFIX,clicli.cc
+DOMAIN-SUFFIX,cnxgct.com
 DOMAIN-SUFFIX,cyc-anime.net
 DOMAIN-SUFFIX,cycani.org
 DOMAIN-SUFFIX,cycanime.com
@@ -889,6 +896,7 @@ DOMAIN-SUFFIX,qdm18.com
 DOMAIN-SUFFIX,qdm66.com
 DOMAIN-SUFFIX,qkan9.com
 DOMAIN-SUFFIX,senfun.in
+DOMAIN-SUFFIX,twxgct.com
 DOMAIN-SUFFIX,web.cycback.org
 DOMAIN-SUFFIX,wedm.cc
 DOMAIN-SUFFIX,xfani.com
@@ -1019,10 +1027,13 @@ DOMAIN-SUFFIX,wboku.com
 DOMAIN-SUFFIX,wdubo.com
 DOMAIN-SUFFIX,web.bageyi.cc
 DOMAIN-SUFFIX,xdubo.com
+DOMAIN-SUFFIX,xgct-video.bzcdn.net
 DOMAIN-SUFFIX,xgct-video.vzcdn.net
 DOMAIN-SUFFIX,yboku.com
 DOMAIN-SUFFIX,yparse.ik9.cc
 DOMAIN-SUFFIX,yzzy1.play-cdn1.com
+DOMAIN-KEYWORD,xgct-video
+
 
 # 动漫相关
 ## 名侦探 柯南
