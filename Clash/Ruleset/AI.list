@@ -1,9 +1,11 @@
 # NAME: AI
-# Updated: 2025-12-02
+# Updated: 2026-06-23
+# Source 1: https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Surge/Surge%203/Provider/AI%20Suite.list
+# Source 2: https://raw.githubusercontent.com/ConnersHua/RuleGo/master/Surge/Ruleset/Extra/AI.list
 
 # OpenAI
 # Source : dler-io & ConnersHua
-# Source Updated Time: 2025-12-01
+# Source Updated Time: 2026-06-23
 # 去除了challenges.cloudflare.com 和 static.cloudflareinsights.com
 # 有些网站也用CF认证,CF域名和其它网站域名不在同一个地区,有时会无限验证
 # 去除了stripe.com,有些网站也用stripe支付,可能会导致其它网站出问题
@@ -29,79 +31,100 @@ DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
 
-# Copilot
+# Google AI Products
 # Source : dler-io & ConnersHua
-# Source Updated Time: 2025-12-01
+# Source Updated Time: 2026-06-23
+## > Google AI Studio
+DOMAIN,ai.google.dev
+DOMAIN,aistudio.google.com
+DOMAIN,alkalicore-pa.clients6.google.com
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN,waa-pa.clients6.google.com
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,makersuite.google.com
+## > Google Antigravity
+DOMAIN,antigravity.google
+DOMAIN,antigravity-unleash.goog
+## Google DeepMind
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+## > Google Generative Language API
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,geller-pa.googleapis.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+## > Google Gemini
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,gemini.google
+DOMAIN-SUFFIX,gemini.google.com
+## > Google NotebookLM
+DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,notebooklm.google.com
+## > Google Search Lab
+DOMAIN-SUFFIX,labs.google
+
+
+# Anthropic Claude
+# Source : dler-io & ConnersHua
+# Source Updated Time: 2026-06-23
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claudeusercontent.com
+
+# Cursor
+# Source : dler-io & ConnersHua
+# Source Updated Time: 2026-06-23
+DOMAIN-SUFFIX,cursor-cdn.com
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursorapi.com
+
+# Microsoft Copilot
+# Source : dler-io & ConnersHua
+# Source Updated Time: 2026-06-23
 DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN,copilot.microsoft.com
 DOMAIN-SUFFIX,githubcopilot.com
 
-# Gemini
-# Source : dler-io & ConnersHua
-# Source Updated Time: 2025-12-01
-DOMAIN,ai.google.dev
-DOMAIN,aida.googleapis.com
-DOMAIN,aistudio.google.com
-DOMAIN,alkalicore-pa.clients6.google.com
-DOMAIN,alkalimakersuite-pa.clients6.google.com
-DOMAIN,bard.google.com
-DOMAIN,deepmind.com
-DOMAIN,deepmind.google
-DOMAIN,geller-pa.googleapis.com
-DOMAIN,gemini.google
-DOMAIN,gemini.google.com
-DOMAIN,generativeai.google
-DOMAIN,generativelanguage.googleapis.com
-DOMAIN,makersuite.google.com
-DOMAIN,proactivebackend-pa.googleapis.com
-DOMAIN,robinfrontend-pa.googleapis.com
-DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
-DOMAIN,notebooklm.google
-DOMAIN,notebooklm.google.com
-DOMAIN,jules.google
-DOMAIN,jules.google.com
-DOMAIN,labs.google
-DOMAIN,aisandbox-pa.googleapis.com
-
-# Anthropic Claude
-# Source : dler-io & ConnersHua
-# Source Updated Time: 2025-12-01
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,claudeusercontent.com
-IP-CIDR,160.79.104.0/23,no-resolve
-IP-CIDR6,2607:6bc0::/48,no-resolve
 
 # JetBrains AI
 # Source : dler-io & ConnersHua
-# Source Updated Time: 2025-12-01
+# Source Updated Time: 2026-06-23
 DOMAIN-SUFFIX,grazie.ai
 DOMAIN-SUFFIX,grazie.aws.intellij.net
 DOMAIN-SUFFIX,jetbrains.ai
 
 # Meta
 # Source : dler-io & ConnersHua
-# Source Updated Time: 2025-12-01
+# Source Updated Time: 2026-06-23
 DOMAIN,imagine.meta.com
 DOMAIN-SUFFIX,meta.ai
 
+
 # Perplexity
 # Source : dler-io & ConnersHua
-# Source Updated Time: 2025-12-01
+# Source Updated Time: 2026-06-23
 DOMAIN,pplx-res.cloudinary.com
 DOMAIN-SUFFIX,pplx.ai
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,perplexity.com
 
-# Mistral AI
+# Zed
 # Source : dler-io & ConnersHua
-# Source Updated Time: 2025-12-01
-DOMAIN,chat.mistral.ai
-DOMAIN,console.mistral.ai
-DOMAIN-SUFFIX,mistral.ai
+# Source Updated Time: 2026-06-23
+DOMAIN-SUFFIX,zed.dev
 
-# Sora
+# Doubao dola
 # Source : dler-io & ConnersHua
-# Source Updated Time: 2025-12-01
-DOMAIN,sora-cdn.oaistatic.com
-DOMAIN-SUFFIX,sora.com
+# Source Updated Time: 2026-06-23
+DOMAIN-SUFFIX,cici.com,extended-matching
+DOMAIN-SUFFIX,ciciai.com,extended-matching
+DOMAIN-SUFFIX,dola.com,extended-matching
+DOMAIN-SUFFIX,byteoversea.com,extended-matching
+
+# Windsurf
+# Source : dler-io & ConnersHua
+# Source Updated Time: 2026-06-23
+DOMAIN-SUFFIX,windsurf.com
+DOMAIN-SUFFIX,codeium.com
+DOMAIN-SUFFIX,codeiumdata.com
