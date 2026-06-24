@@ -5,7 +5,7 @@
 
 # OpenAI
 # Source : dler-io & ConnersHua
-# Source Updated Time: 2026-06-23
+# Source Updated Time: 2026-06-24
 # 去除了challenges.cloudflare.com 和 static.cloudflareinsights.com
 # 有些网站也用CF认证,CF域名和其它网站域名不在同一个地区,有时会无限验证
 # 去除了stripe.com,有些网站也用stripe支付,可能会导致其它网站出问题
@@ -45,6 +45,8 @@ DOMAIN-SUFFIX,makersuite.google.com
 ## > Google Antigravity
 DOMAIN,antigravity.google
 DOMAIN,antigravity-unleash.goog
+PROCESS-NAME,Antigravity
+PROCESS-NAME,Antigravity.exe
 ## Google DeepMind
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google
