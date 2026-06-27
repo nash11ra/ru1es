@@ -33,8 +33,29 @@ DOMAIN-SUFFIX,testingcf.jsdelivr.net
 DOMAIN-SUFFIX,fastly.jsdelivr.net
 DOMAIN-SUFFIX,gcore.jsdelivr.net
 ## Github
+DOMAIN-SUFFIX,cdn.crashmc.com
+DOMAIN-SUFFIX,cors.isteed.cc
+DOMAIN-SUFFIX,down.npee.cn
+DOMAIN-SUFFIX,g.blfrp.cn
 DOMAIN-SUFFIX,gh-proxy.com
+DOMAIN-SUFFIX,gh-proxy.org
+DOMAIN-SUFFIX,gh.ddlc.top
+DOMAIN-SUFFIX,gh.idayer.com
+DOMAIN-SUFFIX,gh.jasonzeng.dev
+DOMAIN-SUFFIX,gh.monlor.com
+DOMAIN-SUFFIX,gh.xxooo.cf
+DOMAIN-SUFFIX,gh.zwy.one
 DOMAIN-SUFFIX,ghfast.top
+DOMAIN-SUFFIX,ghfile.geekertao.top
+DOMAIN-SUFFIX,ghproxy.it
+DOMAIN-SUFFIX,ghproxy.monkeyray.net
+DOMAIN-SUFFIX,ghproxy.net
+DOMAIN-SUFFIX,git.yylx.win
+DOMAIN-SUFFIX,github.ednovas.xyz
+DOMAIN-SUFFIX,github.tbedu.top
+DOMAIN-SUFFIX,hub.glowp.xyz
+DOMAIN-SUFFIX,raw.ihtw.moe
+DOMAIN-SUFFIX,wget.la
 ## 其他
 DOMAIN-SUFFIX,hf-mirror.com
 
