@@ -1,5 +1,5 @@
 # NAME: Direct
-# Updated: 2026-06-23
+# Updated: 2026-06-27
 
 # 游戏相关
 ## HumbleBundle HB慈善包
@@ -25,6 +25,19 @@ DOMAIN,speedtest.jsqiuying.com
 DOMAIN,speedtest1.online.sh.cn
 DOMAIN,test.nju.edu.cn
 DOMAIN,test.ustc.edu.cn
+
+
+# CDN 与 Github 加速
+## Jsdelivr
+DOMAIN-SUFFIX,testingcf.jsdelivr.net
+DOMAIN-SUFFIX,fastly.jsdelivr.net
+DOMAIN-SUFFIX,gcore.jsdelivr.net
+## Github
+DOMAIN-SUFFIX,gh-proxy.com
+DOMAIN-SUFFIX,ghfast.top
+## 其他
+DOMAIN-SUFFIX,hf-mirror.com
+
 
 # AI相关
 DOMAIN-SUFFIX,baichuan-ai.com
